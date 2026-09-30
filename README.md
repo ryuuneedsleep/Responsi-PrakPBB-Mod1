@@ -3,7 +3,7 @@
 RESTful API untuk pencatatan dan pengelolaan peminjaman buku perpustakaan yang dibangun menggunakan Node.js, Express.js, dan Supabase Database (PostgreSQL).
 
 ## Production URL
-- **Deployment URL**: `https://your-deployment-name.vercel.app`
+- **Deployment URL**: `https://responsi-prak-pbb-mod1.vercel.app`
 
 ## Skema Database
 
